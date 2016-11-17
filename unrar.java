@@ -13,6 +13,12 @@ import com.github.junrar.Archive;
 import com.github.junrar.rarfile.FileHeader;
 
 /**
+		<!-- 用于解压rar文件 -->
+        <dependency>
+            <groupId>com.github.junrar</groupId>
+            <artifactId>junrar</artifactId>
+            <version>0.7</version>
+        </dependency>
  * <p>
  * Title: 解压缩文件
  * </p>
